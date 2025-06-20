@@ -1,0 +1,12 @@
+Creative Commons BY-NC
+
+Copyright (c) 2025 Christian Wilhelm, Code99, Germany
+
+This hardware design is provided for educational and personal use only.
+Commercial use, manufacturing, or sale of this design or any derivative
+works is strictly prohibited without prior written permission.
+
+You may study, modify, and share this design for non-commercial purposes,
+provided you credit the original author and include this notice with all copies.
+
+Contact: mail@code99.it
