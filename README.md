@@ -2,4 +2,4 @@ This repository provides all source code and documentation required to build you
 
 Free for personal use only.  
 Commercial use is strictly prohibited.  
-Licensed under CERN OHL v2.0.
+Licensed under CC BY-NC 4.0
