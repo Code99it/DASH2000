@@ -52,7 +52,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -187,7 +193,17 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.4,
+        0.6,
+        0.8,
+        1.0,
+        1.5,
+        1.9,
+        2.0,
+        2.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -214,7 +230,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -505,7 +526,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 600,
+    "annotate_start_num": 1100,
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -637,6 +658,14 @@
       "Power Supply 3V3"
     ],
     [
+      "2bb93b9f-3841-4bd5-80fb-59c9ed538fbb",
+      "Power Supply 5V0"
+    ],
+    [
+      "6504562f-d02c-48a3-a079-9a974990c40a",
+      "Power Supply 7V5"
+    ],
+    [
       "1d590988-2dfb-46d4-8a37-3a233767618f",
       "MCU"
     ],
@@ -649,8 +678,20 @@
       "LED"
     ],
     [
+      "181162a6-3e3b-442a-a015-033e46df7a24",
+      "LEDBARs"
+    ],
+    [
+      "c5bf43cc-7d99-4028-8973-f72fbc42c916",
+      "LED Controller"
+    ],
+    [
       "76a7fe83-7f9e-47d0-91df-69dbfe5b14e1",
       "Connector"
+    ],
+    [
+      "d51de3b1-682a-486c-b506-1cb9831574a3",
+      "Backlight"
     ]
   ],
   "text_variables": {}

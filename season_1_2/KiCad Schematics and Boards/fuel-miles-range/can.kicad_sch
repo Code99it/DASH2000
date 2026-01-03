@@ -760,6 +760,36 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 92.71) (xy 184.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0708d31d-04f9-4705-a56f-65a98b913231")
+	)
+	(wire
+		(pts
+			(xy 116.84 95.25) (xy 138.43 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19c7171c-4741-4917-861c-7f00b9df1dcc")
+	)
+	(wire
+		(pts
+			(xy 189.23 92.71) (xy 189.23 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d57640-65e4-44d2-afe5-e96a70157609")
+	)
+	(wire
+		(pts
 			(xy 151.13 55.88) (xy 151.13 59.69)
 		)
 		(stroke
@@ -767,6 +797,26 @@
 			(type default)
 		)
 		(uuid "2121d70f-ead7-4a0d-bc0c-e97695418821")
+	)
+	(wire
+		(pts
+			(xy 189.23 102.87) (xy 189.23 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d78ccb4-7e67-4876-a865-254b6e6bc8d4")
+	)
+	(wire
+		(pts
+			(xy 168.91 88.9) (xy 184.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30fee1c5-481b-4841-b8f1-32c5024d5e32")
 	)
 	(wire
 		(pts
@@ -780,23 +830,23 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 95.25) (xy 198.12 95.25)
+			(xy 172.72 100.33) (xy 163.83 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3742c748-e7b0-47db-81f0-26cf13803fa5")
+		(uuid "54f7837e-7f18-4747-8a42-b74f85a38a01")
 	)
 	(wire
 		(pts
-			(xy 119.38 92.71) (xy 138.43 92.71)
+			(xy 184.15 106.68) (xy 195.58 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d0a07bc-d6ef-40f0-8197-c1eab4aa05ba")
+		(uuid "558b9ae3-12ec-4abd-855c-786765bdc28f")
 	)
 	(wire
 		(pts
@@ -820,23 +870,13 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 95.25) (xy 181.61 95.25)
+			(xy 184.15 106.68) (xy 184.15 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a7150e4-e052-49e2-a875-017db5e52cf7")
-	)
-	(wire
-		(pts
-			(xy 129.54 95.25) (xy 138.43 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6da5e755-1a3d-4dce-9e80-2a5d7998a118")
+		(uuid "6d10a24f-be11-43be-a53b-7c04f22c8786")
 	)
 	(wire
 		(pts
@@ -870,13 +910,23 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 100.33) (xy 198.12 100.33)
+			(xy 172.72 111.76) (xy 172.72 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "938b9575-7bb5-45a1-8120-8be53fb5320c")
+		(uuid "8f0fdb37-1ecb-41b8-8a40-f8b8c89ffd91")
+	)
+	(wire
+		(pts
+			(xy 189.23 88.9) (xy 195.58 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90fd0b7a-0b19-423c-94df-ebe1ef9e47b1")
 	)
 	(wire
 		(pts
@@ -890,6 +940,26 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 111.76) (xy 172.72 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5e0ee63-e024-4b98-950e-552ca01c9eb2")
+	)
+	(wire
+		(pts
+			(xy 168.91 88.9) (xy 168.91 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0af2736-7692-4661-9907-c3abaa61d645")
+	)
+	(wire
+		(pts
 			(xy 119.38 100.33) (xy 123.19 100.33)
 		)
 		(stroke
@@ -900,13 +970,23 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 100.33) (xy 181.61 100.33)
+			(xy 168.91 95.25) (xy 163.83 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cabae12e-7eb8-4d2d-8efd-338a2d4afc06")
+		(uuid "e5a2d113-3ccd-4581-b55e-a473f9f6876f")
+	)
+	(wire
+		(pts
+			(xy 116.84 92.71) (xy 138.43 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f75fdc30-dbec-43d0-ab58-884df779e8f6")
 	)
 	(wire
 		(pts
@@ -940,6 +1020,28 @@
 			)
 		)
 	)
+	(global_label "FDCAN1_TX"
+		(shape input)
+		(at 116.84 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a94fc82-937c-496a-8b82-ad5913d9cf51")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.4529 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND_CAN"
 		(shape input)
 		(at 151.13 114.3 270)
@@ -953,28 +1055,6 @@
 		(uuid "26fdfbcf-aa0e-4576-96a5-0df51ca5f452")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 151.0506 125.2402 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CAN_TXD"
-		(shape input)
-		(at 119.38 92.71 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27dfe5e0-5d12-42ea-b677-33f5b6f019aa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.8631 92.6306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1028,28 +1108,6 @@
 			)
 		)
 	)
-	(global_label "CAN_RXD"
-		(shape output)
-		(at 129.54 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "94afdce7-c383-4e2f-a478-29c2dda5153e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.7207 95.1706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "GND_3V3"
 		(shape input)
 		(at 123.19 114.3 270)
@@ -1074,7 +1132,7 @@
 	)
 	(global_label "CAN_H"
 		(shape input)
-		(at 198.12 95.25 0)
+		(at 195.58 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1084,7 +1142,7 @@
 		)
 		(uuid "cc54e5a7-17a1-42d7-9b5d-f50f7752dcc2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.0924 95.25 0)
+			(at 204.5524 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1096,7 +1154,7 @@
 	)
 	(global_label "CAN_L"
 		(shape input)
-		(at 198.12 100.33 0)
+		(at 195.58 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1106,12 +1164,34 @@
 		)
 		(uuid "e4217bac-a84e-4758-aca1-24f3f90f1720")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.79 100.33 0)
+			(at 204.25 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN1_RX"
+		(shape input)
+		(at 116.84 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e4be410a-0bd4-4918-8d93-ad1556fb26c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.1505 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -1162,12 +1242,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 156.21 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1231,12 +1312,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 123.19 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1301,12 +1383,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, SOIC-8"
 			(at 151.13 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1344,7 +1427,7 @@
 	)
 	(symbol
 		(lib_id "Device:Filter_EMI_CommonMode")
-		(at 186.69 97.79 0)
+		(at 186.69 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1353,23 +1436,25 @@
 		(fields_autoplaced yes)
 		(uuid "dee673ef-65ae-44b3-931a-f70ac04dd1b2")
 		(property "Reference" "FL601"
-			(at 186.309 90.17 0)
+			(at 190.5 98.1709 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "Filter_EMI_CommonMode"
-			(at 186.309 92.71 0)
+			(at 181.61 98.171 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_CommonModeChoke_Murata_DLW5BTMxxxSQ2x_5x5mm"
-			(at 186.69 96.774 0)
+		(property "Footprint" "Inductor_SMD:L_CommonModeChoke_Coilcraft_0805USB"
+			(at 185.674 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1378,7 +1463,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 96.774 0)
+			(at 185.674 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1386,15 +1471,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "EMI 2-inductor common mode filter"
 			(at 186.69 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" " 810-ACT45B1102PTL003 "
+		(property "Mouser" "673-AWCU332525510XG0 "
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Yaego" "AWCU00332525510XG0"
 			(at 186.69 97.79 0)
 			(effects
 				(font

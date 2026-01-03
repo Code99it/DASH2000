@@ -1,0 +1,223 @@
+(footprint "LED_5MM_YELLOW_DIFF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "defb122f-028d-44e7-bded-4e31c2a186ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LED_5MM_YELLOW_DIFF"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9c7901c5-5e97-4720-ae11-7754a1471ce9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9f7b0dc-7edc-4082-8517-a5bdc8ca3895")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "148b1861-29f4-44eb-9ff8-1b63c66c0231")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.85 -6.335)
+		(end -2.85 -3.245)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b2a75b1-b331-40de-ba49-a764125772df")
+	)
+	(fp_arc
+		(start -2.85 -6.33483)
+		(mid 0.511779 -7.670495)
+		(end 2.7 -4.79)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56f075ea-95e3-4151-b321-c44a732c2001")
+	)
+	(fp_arc
+		(start 2.7 -4.79)
+		(mid 0.511779 -1.909505)
+		(end -2.85 -3.24517)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "199165b3-90e9-45b5-a158-c89c244e4b69")
+	)
+	(fp_circle
+		(center -0.29 -4.79)
+		(end 2.21 -4.79)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "22e928ee-2987-4c12-aaa4-73494e38f75c")
+	)
+	(fp_line
+		(start -3.5 -8)
+		(end -3.5 -1.58)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34cb4e37-8b27-44e2-bad5-20ed77698bb7")
+	)
+	(fp_line
+		(start -3.5 -1.58)
+		(end 2.93 -1.58)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f63e05ef-666b-444d-a769-660b889adad3")
+	)
+	(fp_line
+		(start 2.93 -8)
+		(end -3.5 -8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "54d45636-e339-45f2-b926-582c8af44833")
+	)
+	(fp_line
+		(start 2.93 -1.58)
+		(end 2.93 -8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "085d3c91-1c69-4685-a536-fccc5bbaeb49")
+	)
+	(fp_line
+		(start -2.79 -6.259694)
+		(end -2.79 -3.320306)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ebf2d2c-ba41-4e0e-9b30-648bf6570f00")
+	)
+	(fp_arc
+		(start -2.79 -6.259694)
+		(mid 2.61 -4.79)
+		(end -2.79 -3.320306)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e33fe48-8120-44c3-a3e0-529cb877b9b8")
+	)
+	(fp_circle
+		(center -0.29 -4.79)
+		(end 2.21 -4.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d560b38a-c6c6-4f72-8463-5127d5945ae9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5d503f02-922a-429c-968b-61b0eec5d10b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.29 -4.79 0)
+		(layer "F.Fab")
+		(uuid "b7c81452-94fe-4ef7-a057-bb034b4c5d90")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -1.56 -4.79)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b79fb864-0457-495f-8db3-63975b468cf6")
+	)
+	(pad "2" thru_hole circle
+		(at 0.98 -4.79)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6a075b6b-8d63-4640-bd64-ab41a3d62f55")
+	)
+	(embedded_fonts no)
+	(model "/home/code99/git/DASH2000/season_1_2/KiCad Schematics and Boards/kicad-libs/3dmodels/LED-5mm-Yellow-diffus-short.step"
+		(offset
+			(xyz -0.2 4.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)

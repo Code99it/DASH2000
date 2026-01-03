@@ -49,7 +49,49 @@
 		(instances
 			(project "fuel-miles-range"
 				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
-					(page "5")
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 67.31)
+		(size 41.91 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "181162a6-3e3b-442a-a015-033e46df7a24")
+		(property "Sheetname" "LEDBARs"
+			(at 24.13 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ledbars.kicad_sch"
+			(at 24.13 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fuel-miles-range"
+				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
+					(page "8")
 				)
 			)
 		)
@@ -91,7 +133,91 @@
 		(instances
 			(project "fuel-miles-range"
 				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 121.92)
+		(size 48.26 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2bb93b9f-3841-4bd5-80fb-59c9ed538fbb")
+		(property "Sheetname" "Power Supply 5V0"
+			(at 149.86 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersupply5v0.kicad_sch"
+			(at 149.86 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fuel-miles-range"
+				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 121.92)
+		(size 49.53 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6504562f-d02c-48a3-a079-9a974990c40a")
+		(property "Sheetname" "Power Supply 7V5"
+			(at 85.09 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5V0.kicad_sch"
+			(at 85.09 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fuel-miles-range"
+				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
+					(page "4")
 				)
 			)
 		)
@@ -133,13 +259,13 @@
 		(instances
 			(project "fuel-miles-range"
 				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
-					(page "4")
+					(page "6")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 21.59 67.31)
+		(at 85.09 68.58)
 		(size 45.72 29.21)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -155,7 +281,7 @@
 		)
 		(uuid "76a7fe83-7f9e-47d0-91df-69dbfe5b14e1")
 		(property "Sheetname" "Connector"
-			(at 21.59 66.5984 0)
+			(at 85.09 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,7 +290,7 @@
 			)
 		)
 		(property "Sheetfile" "connector.kicad_sch"
-			(at 21.59 97.1046 0)
+			(at 85.09 98.3746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -175,7 +301,7 @@
 		(instances
 			(project "fuel-miles-range"
 				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
-					(page "6")
+					(page "10")
 				)
 			)
 		)
@@ -218,6 +344,90 @@
 			(project "fuel-miles-range"
 				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 121.92)
+		(size 43.18 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5bf43cc-7d99-4028-8973-f72fbc42c916")
+		(property "Sheetname" "LED Controller"
+			(at 24.13 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ledcontroller.kicad_sch"
+			(at 24.13 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fuel-miles-range"
+				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 68.58)
+		(size 49.53 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d51de3b1-682a-486c-b506-1cb9831574a3")
+		(property "Sheetname" "Backlight"
+			(at 148.59 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "backlight.kicad_sch"
+			(at 148.59 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fuel-miles-range"
+				(path "/431d18a8-5a30-4abd-b179-1e9443c4ac96"
+					(page "11")
 				)
 			)
 		)
