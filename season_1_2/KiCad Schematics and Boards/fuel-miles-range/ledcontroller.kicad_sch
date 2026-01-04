@@ -1888,6 +1888,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 85.09) (xy 86.36 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "726fec8b-9699-4286-822c-646b818f2f8d")
+	)
+	(wire
+		(pts
 			(xy 83.82 143.51) (xy 86.36 143.51)
 		)
 		(stroke
@@ -1965,6 +1975,16 @@
 			(type default)
 		)
 		(uuid "7e986a3c-5135-4ed5-9271-40599c0a8548")
+	)
+	(wire
+		(pts
+			(xy 83.82 90.17) (xy 86.36 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81138b3a-e4b2-4bd8-b3a4-6075f4aeb4aa")
 	)
 	(wire
 		(pts
@@ -2358,6 +2378,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 95.25) (xy 86.36 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d221f702-7776-4e74-b3b8-d6c179564dd4")
+	)
+	(wire
+		(pts
 			(xy 220.98 17.78) (xy 220.98 24.13)
 		)
 		(stroke
@@ -2485,6 +2515,16 @@
 			(type default)
 		)
 		(uuid "f05a834a-075e-4cf8-9885-4dd9bbca849b")
+	)
+	(wire
+		(pts
+			(xy 83.82 92.71) (xy 86.36 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f081f8df-7eb0-4fe5-80b2-345ced7a9c18")
 	)
 	(wire
 		(pts
@@ -2779,6 +2819,28 @@
 		(uuid "1e11a811-6ee7-4637-808c-95cc9a4fe2da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 167.1345 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED BAR 3 LED RD 3"
+		(shape input)
+		(at 83.82 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "236692e8-cf1b-4a09-913b-9811aa097027")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.515 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,6 +3620,28 @@
 			)
 		)
 	)
+	(global_label "LED BAR 3 LED RD 2"
+		(shape input)
+		(at 83.82 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "77dc3dcb-168b-498d-acc2-af6565ed06bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.515 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED_CONTROLLER_DATA"
 		(shape input)
 		(at 119.38 85.09 0)
@@ -3576,6 +3660,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED BAR 3 LED RD 1"
+		(shape input)
+		(at 83.82 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f920405-641a-48dd-ac4c-232accfe694a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.515 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4649,6 +4755,28 @@
 		(uuid "f9286f5c-756d-4872-9f75-7c51078d8876")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 68.6791 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED BAR 3 LED RD 4"
+		(shape input)
+		(at 83.82 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc539c53-ed02-4d8d-8215-ffa692cb2cee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.515 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
